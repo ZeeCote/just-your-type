@@ -1,19 +1,24 @@
 body  {
-  background-color: #2E5266;
+  background-color: #2e5266;
+  font-family: 'Bellota', cursive;
 }
 
 .med-light {
-  color: #6E8898;
+  color: #6e8898;
 }
 
 .light {
-  color: #9FB1BC;
+  color: #9fb1bc;
 }
 
 .very-light {
-  color: #EEE9E1;
+  color: #eee9e1;
 }
 
 .pop  {
-  color:#FFE68E;
+  color:#ffe68e;
+}
+
+.script {
+  font-family: 'Petit Formal Script', cursive;
 }
