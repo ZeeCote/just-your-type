@@ -1,6 +1,6 @@
-body  {
+body {
   background-color: #2e5266;
-  font-family: 'Bellota', cursive;
+  font-family: Bellota, cursive;
 }
 
 .med-light {
@@ -15,10 +15,10 @@ body  {
   color: #eee9e1;
 }
 
-.pop  {
-  color:#ffe68e;
+.pop {
+  color: #ffe68e;
 }
 
 .script {
-  font-family: 'Petit Formal Script', cursive;
+  font-family: Petit Formal Script, cursive;
 }
